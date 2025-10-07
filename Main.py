@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # 🔹 استبدل الرمز بالـ TOKEN مالتك من BotFather
-TOKEN = "حط_رمز_البوت_هنا"
+TOKEN = 8214768225:AAEMpqPVR7vYd3K97T_jFNs4m_pJ9l7kyII
 bot = telebot.TeleBot(TOKEN)
 
 reminders = []
